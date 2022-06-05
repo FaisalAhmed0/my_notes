@@ -1,9 +1,9 @@
 ---
+tags: ["paper"]
+---
 Paper title: "Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hyperspher"
 Authors: Tongzhou Wang , Phillip Isola 
 date: 27-05-2022
-tags: ["paper"]
----
 ## Main Contributions
 - Show that contrastive loss have two properties:
 	1. Alignment of the positive pair in the normalized feature spcae.

@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "2b28d55e2984d222",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd34a7c0f76d8075",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "chapter 2.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c507a741db5be4d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "15b1db27aacde16b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b8ea4d9e2c5add4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5a3bc27809d03944",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "78336170c8435437",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce4376ba068dfa98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e7cca08fc66d1c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chapter 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd34a7c0f76d8075",
+  "lastOpenFiles": [
+    "chapter 2.md",
+    "cl_code.png",
+    "Important concepts and ideas.md",
+    "uniformity on the hypersphere.md",
+    "which MI objective is sufficent for control.md",
+    "README.md",
+    "uniformity.png",
+    "uniform_loss.png",
+    "index.md",
+    "entropy esimator.md"
+  ]
+}

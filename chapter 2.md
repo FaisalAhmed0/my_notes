@@ -1,3 +1,4 @@
+# ML Book by Murphy
 ## Chapter 2 probability 
 ### 2.1 What is porbability 
 There are two views of a probability:
@@ -12,4 +13,8 @@ It allow us to assign probabilities to events that do not happen many times or c
 #### Discrete random variables
 A random variable that takes its values from a finite set or a infintly countable set.
 ###### some useful properties and functions
-The Indicator function: a function that returns either zero or one
+- The Indicator function: a function that returns either zero or one dependeing on its input, if the input evaluate to true it will return one otherwise, it will return zero.
+$I(x=1) = 1$ if $x=1$ otherwise $I = 0$.
+- The porbability of a Union of two 
+
+
