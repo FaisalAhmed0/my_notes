@@ -75,7 +75,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,20 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 100,
     "collapsed": true
   },
   "active": "dd34a7c0f76d8075",
   "lastOpenFiles": [
     "chapter 2.md",
+    "CIC.md",
     "cl_code.png",
-    "Important concepts and ideas.md",
+    "entropy esimator.md",
     "uniformity on the hypersphere.md",
+    "APT.md",
     "which MI objective is sufficent for control.md",
+    "Important concepts and ideas.md",
     "README.md",
-    "uniformity.png",
-    "uniform_loss.png",
-    "index.md",
-    "entropy esimator.md"
+    "uniformity.png"
   ]
 }
